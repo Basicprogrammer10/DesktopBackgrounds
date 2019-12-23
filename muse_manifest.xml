@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577132531059">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577142234196">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4002794634" ref="index"/>
-    <file name="about.css" crc="3987271890" ref="about"/>
+    <file name="index.css" crc="3827859267" ref="index"/>
+    <file name="about.css" crc="145337699" ref="about"/>
   </folder>
   <folder name="assets">
     <file name="desktopbackgrounds.zip" crc="282564140" seo="true" mt="1577124643000"/>
@@ -107,7 +107,31 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:about"/>
     <file name="favicon.ico" crc="3893236021" ref="index"/>
+    <file name="background23.png" crc="3936749471" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="background24.png" crc="4102258982" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="background25.png" crc="350975248" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="background26.png" crc="8106994" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="background27.png" crc="4165610784" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="background28.png" crc="3982147863" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="203508684" seo="true" mt="1577132521408" redirect="true"/>
-  <file name="about.html" crc="506896245" seo="true" mt="1577132521408" redirect="true"/>
+  <file name="index.html" crc="138136903" seo="true" mt="1577142195586" redirect="true"/>
+  <file name="about.html" crc="530533921" seo="true" mt="1577142218514" redirect="true"/>
 </manifest>
