@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577132273867">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577132531059">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4002794634" ref="index"/>
@@ -106,7 +106,8 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:about"/>
+    <file name="favicon.ico" crc="3893236021" ref="index"/>
   </folder>
-  <file name="index.html" crc="309715209" seo="true" mt="1577131170349" redirect="true"/>
-  <file name="about.html" crc="3779896855" seo="true" mt="1577132233373" redirect="true"/>
+  <file name="index.html" crc="203508684" seo="true" mt="1577132521408" redirect="true"/>
+  <file name="about.html" crc="506896245" seo="true" mt="1577132521408" redirect="true"/>
 </manifest>
