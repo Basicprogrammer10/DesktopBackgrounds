@@ -1,89 +1,112 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577125054787">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577132273867">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4137058434" ref="index"/>
+    <file name="index.css" crc="4002794634" ref="index"/>
+    <file name="about.css" crc="3987271890" ref="about"/>
   </folder>
   <folder name="assets">
     <file name="desktopbackgrounds.zip" crc="282564140" seo="true" mt="1577124643000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about"/>
+    <file name="require.js" crc="4177726516" ref="index:about"/>
   </folder>
   <folder name="images">
-    <file name="~ai-7c905173-858d-4c4e-910f-4ad5f720069c_.png" crc="283718006" seo="true" ref="index">
+    <file name="~ai-7c905173-858d-4c4e-910f-4ad5f720069c_.png" crc="283718006" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="background2.png" crc="3785108675" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:about"/>
+    <file name="background2.png" crc="3785108675" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background3.png" crc="39248819" seo="true" ref="index">
+    <file name="background3.png" crc="39248819" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background5.png" crc="3889071798" seo="true" ref="index">
+    <file name="background5.png" crc="3889071798" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background6.png" crc="4186266390" seo="true" ref="index">
+    <file name="background6.png" crc="4186266390" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background7.png" crc="4191199091" seo="true" ref="index">
+    <file name="background7.png" crc="4191199091" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background8.png" crc="36278996" seo="true" ref="index">
+    <file name="background8.png" crc="36278996" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background9.png" crc="4058053007" seo="true" ref="index">
+    <file name="background9.png" crc="4058053007" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background11.png" crc="297645105" seo="true" ref="index">
+    <file name="background11.png" crc="297645105" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background12.png" crc="3927511437" seo="true" ref="index">
+    <file name="background12.png" crc="3927511437" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background13.png" crc="3933929266" seo="true" ref="index">
+    <file name="background13.png" crc="3933929266" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background14.png" crc="8148701" seo="true" ref="index">
+    <file name="background14.png" crc="8148701" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background15.png" crc="4026026173" seo="true" ref="index">
+    <file name="background15.png" crc="4026026173" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background16.png" crc="3782794214" seo="true" ref="index">
+    <file name="background16.png" crc="3782794214" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background18.png" crc="268070452" seo="true" ref="index">
+    <file name="background18.png" crc="268070452" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background19.png" crc="4222403989" seo="true" ref="index">
+    <file name="background19.png" crc="4222403989" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background20.png" crc="4003328673" seo="true" ref="index">
+    <file name="background20.png" crc="4003328673" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background21.png" crc="376596812" seo="true" ref="index">
+    <file name="background21.png" crc="376596812" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="background22.png" crc="2958010" seo="true" ref="index">
+    <file name="background22.png" crc="2958010" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="backgroundv1.png" crc="529614091" seo="true" ref="index">
+    <file name="backgroundv1.png" crc="529614091" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="backgroundv2.png" crc="3760415090" seo="true" ref="index">
+    <file name="backgroundv2.png" crc="3760415090" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about"/>
   </folder>
-  <file name="index.html" crc="3836036370" seo="true" mt="1577124682114" redirect="true"/>
+  <file name="index.html" crc="309715209" seo="true" mt="1577131170349" redirect="true"/>
+  <file name="about.html" crc="3779896855" seo="true" mt="1577132233373" redirect="true"/>
 </manifest>
