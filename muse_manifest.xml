@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577142234196">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://desktopbackgrounds.netlify.com" resolutions="1x" timestamp="1577150292145">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3827859267" ref="index"/>
-    <file name="about.css" crc="145337699" ref="about"/>
+    <file name="about.css" crc="323598413" ref="about"/>
   </folder>
   <folder name="assets">
-    <file name="desktopbackgrounds.zip" crc="282564140" seo="true" mt="1577124643000"/>
+    <file name="desktopbackgrounds.zip" crc="3980368446" seo="true" mt="1577142342000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
@@ -106,7 +106,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:about"/>
-    <file name="favicon.ico" crc="3893236021" ref="index"/>
+    <file name="favicon.ico" crc="3893236021" ref="index:about"/>
     <file name="background23.png" crc="3936749471" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
@@ -133,5 +133,5 @@
     </file>
   </folder>
   <file name="index.html" crc="138136903" seo="true" mt="1577142195586" redirect="true"/>
-  <file name="about.html" crc="530533921" seo="true" mt="1577142218514" redirect="true"/>
+  <file name="about.html" crc="306514200" seo="true" mt="1577150256912" redirect="true"/>
 </manifest>
